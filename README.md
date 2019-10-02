@@ -5,8 +5,8 @@ By: Amitava Mitra<br />
 
 # Arrays
 
-* Arrays Concept
-* Array implementation
+* [Arrays Concept](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
+* [Array implementation](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
 * Reversing an Array
 * Array Rotation
 
