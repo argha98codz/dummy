@@ -12,7 +12,7 @@ By: Amitava Mitra<br />
 
 # Linked Lists
 
-* Linked Lists Concept
+* [Linked Lists Concept](https://www.geeksforgeeks.org/data-structures/linked-list/)
 * Singly Linked List implementation
 * Doubly Linked List implementation
 * Finding the length of linked list
