@@ -33,4 +33,8 @@ By: Amitava Mitra<br />
 * Queue implementation
 * Circular Queue
 * Double Ended Queue
-* Priority Queue
+
+* [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue)
+
+
+
