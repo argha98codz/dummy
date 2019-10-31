@@ -12,7 +12,7 @@ By: Amitava Mitra<br />
 
 # Linked Lists
 
-* Linked Lists Concept
+* [Linked Lists Concept](https://www.geeksforgeeks.org/data-structures/linked-list/)
 * Singly Linked List implementation
 * Doubly Linked List implementation
 * Finding the length of linked list
@@ -34,7 +34,11 @@ By: Amitava Mitra<br />
 * Circular Queue
 * Double Ended Queue
 
+* Priority Queue
+
+
 * [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue)
+
 
 
 
