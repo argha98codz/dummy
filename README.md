@@ -20,9 +20,9 @@ By: Amitava Mitra<br />
 
 # Stack
 
-* Stack Concept
+* [Stack Concept](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
 * Stack implementation
-* Infix to Postfix conversion
+* [Infix to Postfix conversion](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 * Balanced Parenthesis
 * Decimal to Binary conversion using Stack
 * Reversing a String using stack
