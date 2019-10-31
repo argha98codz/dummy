@@ -7,8 +7,8 @@ By: Amitava Mitra<br />
 
 * [Arrays Concept](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
 * [Array implementation](https://www.tutorialspoint.com/data_structures_algorithms/array_data_structure.htm)
-* Reversing an Array
-* Array Rotation
+* [Reversing an Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/)
+* [Array Rotation](https://www.geeksforgeeks.org/array-rotation/)
 
 # Linked Lists
 
