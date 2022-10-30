@@ -30,7 +30,10 @@ By: Amitava Mitra<br />
 # Queue
 
 * [Queue Concept](https://www.geeksforgeeks.org/queue-data-structure/)
-* Queue implementation
+* [Queue implementation](https://www.geeksforgeeks.org/queue-data-structure/#implementation)
+    * [Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/)
+    * [Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)
+    * [Stack and Queue using dequeue](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
 * Circular Queue
 * Double Ended Queue
 
