@@ -29,7 +29,7 @@ By: Amitava Mitra<br />
 
 # Queue
 
-* Queue Concept
+* [Queue Concept](https://www.geeksforgeeks.org/queue-data-structure/)
 * Queue implementation
 * Circular Queue
 * Double Ended Queue
