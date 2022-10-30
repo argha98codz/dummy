@@ -21,7 +21,7 @@ By: Amitava Mitra<br />
 # Stack
 
 * [Stack Concept](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
-* Stack implementation
+* [Stack implementation](https://www.geeksforgeeks.org/stack-data-structure/#design)
 * [Infix to Postfix conversion](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 * Balanced Parenthesis
 * Decimal to Binary conversion using Stack
