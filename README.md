@@ -25,7 +25,7 @@ By: Amitava Mitra<br />
 * [Infix to Postfix conversion](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 * Balanced Parenthesis
 * Decimal to Binary conversion using Stack
-* Reversing a String using stack
+* [Reversing a String using stack](https://www.geeksforgeeks.org/java-program-to-reverse-a-string-using-stack/)
 
 # Queue
 
