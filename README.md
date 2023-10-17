@@ -35,7 +35,7 @@ By: Amitava Mitra<br />
     * [Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)
     * [Stack and Queue using dequeue](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
 * [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-2-circular-linked-list-implementation/)
-* Double Ended Queue
+* [Double Ended Queue](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/)
 
 * Priority Queue
 
