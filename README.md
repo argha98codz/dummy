@@ -37,7 +37,7 @@ By: Amitava Mitra<br />
 * [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-2-circular-linked-list-implementation/)
 * [Double Ended Queue](https://www.geeksforgeeks.org/deque-set-1-introduction-applications/)
 
-* Priority Queue
+* [Priority Queue](https://www.geeksforgeeks.org/priority-queue-set-1-introduction/)
 
 
 * [Priority Queue](https://en.wikipedia.org/wiki/Priority_queue)
