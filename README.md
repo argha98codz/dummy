@@ -21,7 +21,7 @@ By: Amitava Mitra<br />
 # Stack
 
 * [Stack Concept](https://www.cs.cmu.edu/~adamchik/15-121/lectures/Stacks%20and%20Queues/Stacks%20and%20Queues.html)
-* Stack implementation
+* [Stack implementation](https://www.geeksforgeeks.org/stack-data-structure/#design)
 * [Infix to Postfix conversion](https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/)
 * Balanced Parenthesis
 * Decimal to Binary conversion using Stack
@@ -29,9 +29,12 @@ By: Amitava Mitra<br />
 
 # Queue
 
-* Queue Concept
-* Queue implementation
-* Circular Queue
+* [Queue Concept](https://www.geeksforgeeks.org/queue-data-structure/)
+* [Queue implementation](https://www.geeksforgeeks.org/queue-data-structure/#implementation)
+    * [Queue using Stack](https://www.geeksforgeeks.org/queue-using-stacks/)
+    * [Stack using Queue](https://www.geeksforgeeks.org/implement-stack-using-queue/)
+    * [Stack and Queue using dequeue](https://www.geeksforgeeks.org/implement-stack-queue-using-deque/)
+* [Circular Queue](https://www.geeksforgeeks.org/circular-queue-set-2-circular-linked-list-implementation/)
 * Double Ended Queue
 
 * Priority Queue
