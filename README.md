@@ -16,7 +16,7 @@ By: Amitava Mitra<br />
 * Singly Linked List implementation
 * Doubly Linked List implementation
 * Finding the length of linked list
-* Reversing the linked list
+* [Reversing the linked list](https://www.geeksforgeeks.org/reverse-a-linked-list/)
 
 # Stack
 
